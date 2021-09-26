@@ -1,0 +1,7 @@
+GET http://localhost:8082/xml/test/lzj
+Accept: application/json
+
+###
+GET http://localhost:8082/dubbo/say/lzj/man
+Accept: application/json
+
